@@ -1,0 +1,8 @@
+test.py
+classes.py
+Data/Tweets/Combined/desktop.ini
+model_stats/*
+Plots/*
+saved_models/*
+__pycache__
+*.vscode
